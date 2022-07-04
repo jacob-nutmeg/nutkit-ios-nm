@@ -1,0 +1,40 @@
+{
+  "properties": [
+    {
+      "category": "Deprecated",
+      "value": "rgb(44, 214, 100)",
+      "type": "color",
+      "name": "primaryPerformanceColor"
+    },
+    {
+      "category": "Deprecated",
+      "value": "rgb(63, 81, 181)",
+      "type": "color",
+      "name": "potPerformanceColor"
+    },
+    {
+      "category": "Performance",
+      "value": "rgb(63, 107, 140)",
+      "type": "color",
+      "name": "valuePerformanceColor"
+    },
+    {
+      "category": "Performance",
+      "value": "rgb(252, 179, 33)",
+      "type": "color",
+      "name": "activeBenchmarkPerformanceColor"
+    },
+    {
+      "category": "Performance",
+      "value": "rgb(33, 150, 243)",
+      "type": "color",
+      "name": "potAdjustmentPerformanceColor"
+    },
+    {
+      "category": "Performance",
+      "value": "rgb(0, 15, 26)",
+      "type": "color",
+      "name": "focusLinePerformanceColor"
+    }
+  ]
+}

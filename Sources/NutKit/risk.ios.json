@@ -1,0 +1,64 @@
+{
+  "properties": [
+    {
+      "category": "Risk",
+      "value": "rgb(167, 214, 237)",
+      "type": "color",
+      "name": "risk1Color"
+    },
+    {
+      "category": "Risk",
+      "value": "rgb(104, 190, 214)",
+      "type": "color",
+      "name": "risk2Color"
+    },
+    {
+      "category": "Risk",
+      "value": "rgb(65, 172, 200)",
+      "type": "color",
+      "name": "risk3Color"
+    },
+    {
+      "category": "Risk",
+      "value": "rgb(0, 154, 185)",
+      "type": "color",
+      "name": "risk4Color"
+    },
+    {
+      "category": "Risk",
+      "value": "rgb(0, 137, 169)",
+      "type": "color",
+      "name": "risk5Color"
+    },
+    {
+      "category": "Risk",
+      "value": "rgb(0, 121, 154)",
+      "type": "color",
+      "name": "risk6Color"
+    },
+    {
+      "category": "Risk",
+      "value": "rgb(88, 102, 133)",
+      "type": "color",
+      "name": "risk7Color"
+    },
+    {
+      "category": "Risk",
+      "value": "rgb(138, 87, 117)",
+      "type": "color",
+      "name": "risk8Color"
+    },
+    {
+      "category": "Risk",
+      "value": "rgb(185, 71, 98)",
+      "type": "color",
+      "name": "risk9Color"
+    },
+    {
+      "category": "Risk",
+      "value": "rgb(230, 48, 74)",
+      "type": "color",
+      "name": "risk10Color"
+    }
+  ]
+}

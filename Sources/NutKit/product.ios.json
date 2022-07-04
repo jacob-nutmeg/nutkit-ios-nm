@@ -1,0 +1,34 @@
+{
+  "properties": [
+    {
+      "category": "Product",
+      "value": "rgb(44, 214, 100)",
+      "type": "color",
+      "name": "sisaColor"
+    },
+    {
+      "category": "Product",
+      "value": "rgb(63, 81, 181)",
+      "type": "color",
+      "name": "lisaColor"
+    },
+    {
+      "category": "Product",
+      "value": "rgb(252, 179, 33)",
+      "type": "color",
+      "name": "jisaColor"
+    },
+    {
+      "category": "Product",
+      "value": "rgb(255, 139, 55)",
+      "type": "color",
+      "name": "giaColor"
+    },
+    {
+      "category": "Product",
+      "value": "rgb(244, 67, 54)",
+      "type": "color",
+      "name": "pensionColor"
+    }
+  ]
+}

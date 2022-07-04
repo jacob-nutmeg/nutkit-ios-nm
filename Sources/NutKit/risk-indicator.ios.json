@@ -1,0 +1,40 @@
+{
+  "properties": [
+    {
+      "category": "risk-indicator",
+      "value": "rgb(47, 177, 83)",
+      "type": "color",
+      "name": "riskIndicatorLowColor"
+    },
+    {
+      "category": "risk-indicator",
+      "value": "rgb(252, 179, 33)",
+      "type": "color",
+      "name": "riskIndicatorMediumColor"
+    },
+    {
+      "category": "risk-indicator",
+      "value": "rgb(244, 67, 54)",
+      "type": "color",
+      "name": "riskIndicatorHighColor"
+    },
+    {
+      "category": "risk-indicator",
+      "value": "rgb(216, 216, 216)",
+      "type": "color",
+      "name": "riskIndicatorUnsetColor"
+    },
+    {
+      "category": "risk-indicator",
+      "value": "rgb(33, 123, 62)",
+      "type": "color",
+      "name": "riskIndicatorSetStem"
+    },
+    {
+      "category": "risk-indicator",
+      "value": "rgb(173, 173, 173)",
+      "type": "color",
+      "name": "riskIndicatorUnsetStem"
+    }
+  ]
+}

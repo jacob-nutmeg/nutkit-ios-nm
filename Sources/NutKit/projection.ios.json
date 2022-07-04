@@ -1,0 +1,34 @@
+{
+  "properties": [
+    {
+      "category": "Projection",
+      "value": "rgb(33, 150, 243)",
+      "type": "color",
+      "name": "projectionMoreLikelyColor"
+    },
+    {
+      "category": "Projection",
+      "value": "rgb(206, 229, 248)",
+      "type": "color",
+      "name": "projectionLessLikelyColor"
+    },
+    {
+      "category": "Projection",
+      "value": "rgb(252, 179, 33)",
+      "type": "color",
+      "name": "projectionContributedColor"
+    },
+    {
+      "category": "Projection",
+      "value": "rgb(33, 150, 243)",
+      "type": "color",
+      "name": "projectionGovernmentBonusColor"
+    },
+    {
+      "category": "Projection",
+      "value": "rgb(8, 37, 60)",
+      "type": "color",
+      "name": "projectionTargetColor"
+    }
+  ]
+}

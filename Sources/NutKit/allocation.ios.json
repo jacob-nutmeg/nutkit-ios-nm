@@ -1,0 +1,22 @@
+{
+  "properties": [
+    {
+      "category": "Allocation",
+      "value": "rgb(22, 43, 59)",
+      "type": "color",
+      "name": "bondsColor"
+    },
+    {
+      "category": "Allocation",
+      "value": "rgb(33, 150, 243)",
+      "type": "color",
+      "name": "equitiesColor"
+    },
+    {
+      "category": "Allocation",
+      "value": "rgb(252, 179, 33)",
+      "type": "color",
+      "name": "otherColor"
+    }
+  ]
+}

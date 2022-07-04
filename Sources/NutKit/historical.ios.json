@@ -1,0 +1,22 @@
+{
+  "properties": [
+    {
+      "category": "Historical",
+      "value": "rgb(63, 107, 140)",
+      "type": "color",
+      "name": "primaryHistoricalColor"
+    },
+    {
+      "category": "Historical",
+      "value": "rgb(184, 183, 183)",
+      "type": "color",
+      "name": "secondaryHistoricalColor"
+    },
+    {
+      "category": "Historical",
+      "value": "rgb(0, 15, 26)",
+      "type": "color",
+      "name": "focusLineHistoricalColor"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "properties": [
+    {
+      "category": "ESG",
+      "value": "8px",
+      "type": "size",
+      "name": "esgScoreBarMarkerWidth"
+    },
+    {
+      "category": "ESG",
+      "value": "12px",
+      "type": "size",
+      "name": "esgScoreBarBorderRadius"
+    },
+    {
+      "category": "ESG",
+      "value": "rgb(47, 177, 83)",
+      "type": "color",
+      "name": "esgVeryHighColor"
+    },
+    {
+      "category": "ESG",
+      "value": "rgb(44, 214, 100)",
+      "type": "color",
+      "name": "esgHighColor"
+    },
+    {
+      "category": "ESG",
+      "value": "1px",
+      "type": "size",
+      "name": "esgScoreBarMilestoneSize"
+    },
+    {
+      "category": "ESG",
+      "value": "rgb(244, 67, 54)",
+      "type": "color",
+      "name": "esgLowColor"
+    },
+    {
+      "category": "ESG",
+      "value": "rgb(233, 30, 99)",
+      "type": "color",
+      "name": "esgVeryLowColor"
+    },
+    {
+      "category": "ESG",
+      "value": "rgb(252, 179, 33)",
+      "type": "color",
+      "name": "esgAverageColor"
+    },
+    {
+      "category": "ESG",
+      "value": "rgb(0, 0, 0)",
+      "type": "color",
+      "name": "esgScoreBarMarkerColor"
+    },
+    {
+      "category": "ESG",
+      "value": "8px",
+      "type": "size",
+      "name": "esgScoreBarMarkerBorderRadius"
+    }
+  ]
+}

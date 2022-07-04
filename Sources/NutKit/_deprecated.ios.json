@@ -1,0 +1,16 @@
+{
+  "properties": [
+    {
+      "category": "Deprecated",
+      "value": "rgb(44, 214, 100)",
+      "type": "color",
+      "name": "primaryPerformanceColor"
+    },
+    {
+      "category": "Deprecated",
+      "value": "rgb(63, 81, 181)",
+      "type": "color",
+      "name": "potPerformanceColor"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "properties": [
+    {
+      "category": "colors",
+      "value": "rgb(0, 119, 230)",
+      "type": "color",
+      "name": "colorGreen"
+    }
+  ]
+}
